@@ -1,16 +1,10 @@
 # mytravelbuddy
 
-A new Flutter project.
 
-## Getting Started
+My Travel Buddy is a mobile application that enables a user
 
-This project is a starting point for a Flutter application.
+to explore different travel destinations in Kenya and select any hotel in the region
 
-A few resources to get you started if this is your first Flutter project:
+to enjoy the different sceneries and locations around.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##The app uses the getx provider package in flutter..
