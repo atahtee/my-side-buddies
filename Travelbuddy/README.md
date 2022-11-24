@@ -7,4 +7,4 @@ to explore different travel destinations in Kenya and select any hotel in the re
 
 to enjoy the different sceneries and locations around.
 
-##The app uses the getx provider package in flutter..
+The app uses the getx provider package in flutter..
