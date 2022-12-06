@@ -42,7 +42,7 @@ class _DetailFurnitureScreenState extends State<FurnitureDetailScreen> {
           style: Theme.of(context)
               .textTheme
               .headlineSmall
-              ?.copyWith(color: Colors.black),
+              ?.copyWith(color: Colors.red),
         ),
         actions: [
           IconButton(
