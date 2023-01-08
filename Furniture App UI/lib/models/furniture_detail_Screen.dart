@@ -179,7 +179,7 @@ class _DetailFurnitureScreenState extends State<FurnitureDetailScreen> {
             ),
           ),
           child: Text(
-            "Buy Us",
+            "Buy Now",
             style: Theme.of(context)
                 .textTheme
                 .titleMedium
